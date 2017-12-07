@@ -1,0 +1,25 @@
+body {
+  color: black;
+  font-family: Times;
+  font: times;
+  background-color: white;
+  border-bottom: 100px solid blue;
+  border-left: 100px solid yellow;
+  border-right: 93px solid green;
+}
+h1 {
+  border: 2px dashed #afceff;
+  text-align: center;
+  font-variant: small-caps;
+}
+h2 {
+  color: black;
+  font-size: 40px;
+  font-style: italic;
+  text-align: center;
+}
+
+a {
+  text-decoration: underline;
+  color: blue;
+}

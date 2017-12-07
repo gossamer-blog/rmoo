@@ -1,0 +1,33 @@
+body {
+  color: black;
+  font-family: century gothic;
+  font: century gothic;
+  font-variant: small-caps;
+  background-color: white;
+  border-left: 100px solid #afceff;
+  border-right: 100px solid #afceff;
+}
+h1 {
+  border: 2px dashed #afceff;
+  text-align: right;
+  font-variant: small-caps;
+}
+h2 {
+  color: black;
+  font-size: 40px;
+  font-style: sans-serif;
+}
+p {
+  color: black;
+  font-size: 20px;
+  font-style: sans-serif;
+}
+p2 {
+  color: black;
+  font-size: 30px;
+  font-style: sans-serif;
+}
+a {
+  text-decoration: underline;
+  color: blue;
+}

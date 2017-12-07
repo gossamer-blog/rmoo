@@ -1,0 +1,39 @@
+body {
+  color: #f442d4;
+  font-family: futura;
+  font: futura;
+  background-color: white;
+  border-left: 100px dotted #f442d4;
+  border-right: 100px dotted #f442d4;
+}
+h1 {
+  border: 2px dashed #f442d4;
+  text-align: right;
+  font-variant: small-caps;
+}
+h2 {
+  color: #f442d4;
+  font-size: 40px;
+  font-style: oblique;
+  font-weight: 400;
+}
+h3 {
+  color: #f442d4;
+  font-size: 40px;
+  font-style: oblique;
+  font-weight: 400;
+}
+p {
+  color: #f442d4;
+  font-size: 20px;
+  font-style: sans-serif;
+}
+p2 {
+  color: #f442d4;
+  font-size: 30px;
+  font-style: sans-serif;
+}
+a {
+  text-decoration: underline;
+  color: blue;
+}

@@ -1,0 +1,38 @@
+title {
+  font-weight: lighter;
+}
+
+body {
+  color: white;
+  font-family: century gothic;
+  font: century gothic;
+  background-image: url("pepsi-final.jpg");
+  background-size: 95%;
+  background-color: #0188FE;
+}
+h1 {
+  border: 2px dashed red;
+  text-align: right;
+  font-weight: lighter;
+}
+h2 {
+  color: white;
+  font-size: 40px;
+  font-style: sans-serif;
+  font-weight: lighter;
+}
+p {
+  color: red;
+  font-size: 20px;
+  font-style: sans-serif;
+  font-weight: lighter;
+}
+p2 {
+  color: red;
+  font-size: 30px;
+  font-style: sans-serif;
+}
+a {
+  text-decoration: underline;
+  color: #9708F6;
+}

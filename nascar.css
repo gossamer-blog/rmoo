@@ -1,0 +1,29 @@
+body {
+  color: red;
+  font-family: impact;
+  font: impact;
+  background-color: yellow;
+}
+h1 {
+  border: 2px dashed blue;
+  text-align: right;
+}
+h2 {
+  color: red;
+  font-size: 40px;
+  font-style: sans-serif;
+}
+p {
+  color: red;
+  font-size: 35px;
+  font-style: sans-serif;
+}
+p2 {
+  color: red;
+  font-size: 30px;
+  font-style: sans-serif;
+}
+a {
+  text-decoration: underline;
+  color: blue;
+}
